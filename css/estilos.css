@@ -21,8 +21,10 @@ body
 #container #tagline
 {
     margin: 0 0 0 1em;
+    text-align: center;
     font-weight: normal;
     font-size: 0.8em;
+    
 }
 
 #container
