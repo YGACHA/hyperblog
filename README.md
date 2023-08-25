@@ -1,4 +1,4 @@
-# hyperblog:tw-1f30e: 
+# hyperblog:
 Un blog increible para [el curso de Git y Github ] (https://platzi.com/cursos/git-
 github/" curso de Git y Github " de Platzil) (https://platzi.com/"Platzi")
 > El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi
